@@ -518,7 +518,10 @@ nav.nav-menu-show {
 .height-100-vh{height:100vh}
 .height-60-vh{height:60vh}
 .slide-main{
+  /*
   background: rgba(0, 0, 0, 0) url("img/slider/slider-ninenjoy.png") no-repeat scroll content-box right / cover ;
+  */
+  background: rgba(0, 0, 0, 0) url("img/slider/slider-ninenjoyapps.png") no-repeat scroll content-box right / cover ;
 }
 .slider-content h2 {
   font-weight: 500;
